@@ -1,4 +1,4 @@
-
+# trial but worked
 SELECT *
 FROM Cinema
 WHERE id%2 <>0
